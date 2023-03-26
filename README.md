@@ -1,6 +1,6 @@
 # Projeto The Last Of Us
 
-Esse é um projeto guiado feito para aprender as bases do HTML, CSS e Javascript
+Esse é um projeto guiado feito para aprender as bases do HTML, CSS e Javascript.
 
 ## Screenshot
 
@@ -16,6 +16,7 @@ Esse é um projeto guiado feito para aprender as bases do HTML, CSS e Javascript
 ## Links
 
 - URL do projeto: (https://gadiel-s.github.io/projeto-the-last-of-us/)
+- LinkedIn: (https://www.linkedin.com/in/gadielsouzafrontend/)
 - Github: (https://github.com/Gadiel-S)
 - Portfolio - [Gadiel Souza de Barros](https://gadiel-s.github.io/meu-portfolio/)
 - Frontend Mentor - [@Gadiel-S](https://www.frontendmentor.io/profile/Gadiel-S)
