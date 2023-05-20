@@ -19,4 +19,3 @@ Esse é um projeto guiado feito para aprender as bases do HTML, CSS e Javascript
 - LinkedIn: (https://www.linkedin.com/in/gadielsouzafrontend/)
 - Github: (https://github.com/Gadiel-S)
 - Portfolio - [Gadiel Souza de Barros](https://gadiel-s.github.io/meu-portfolio/)
-- Frontend Mentor - [@Gadiel-S](https://www.frontendmentor.io/profile/Gadiel-S)
